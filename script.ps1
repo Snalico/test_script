@@ -1,1 +1,1 @@
-New-Item .\test.text
+New-Item "C:\Users\nberhaul\Desktop\test.text"
